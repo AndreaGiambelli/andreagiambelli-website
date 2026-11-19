@@ -2060,7 +2060,7 @@ textarea.w-input, textarea.w-select {
   --relume-library-lite-rl-white: white;
   --light-text: #ad9b9b;
   --yellow: white;
-  --mclaren: #ff4300;
+  --mclaren: #2823ff;
   --mclaren-dark: #000;
   --red: #ff2e00;
 }
@@ -2576,7 +2576,7 @@ a {
 
 .text-span-5 {
   background-color: var(--mclaren);
-  color: var(--mclaren-dark);
+  color: #fff;
   margin-left: -2px;
   margin-right: -2px;
   padding-left: 2px;
@@ -2729,12 +2729,12 @@ a {
 
 .link-2 {
   background-color: var(--mclaren);
-  color: var(--mclaren-dark);
+  color: #fff;
 }
 
 .link-3 {
   background-color: var(--mclaren);
-  color: var(--mclaren-dark);
+  color: #fff;
   margin-left: -2px;
   margin-right: -2px;
   padding-left: 2px;
@@ -2743,7 +2743,7 @@ a {
 
 .link-4 {
   background-color: var(--mclaren);
-  color: var(--mclaren-dark);
+  color: #fff;
   margin-left: -2px;
   margin-right: 0;
   padding-left: 2px;
@@ -2752,7 +2752,7 @@ a {
 
 .link-5, .link-6, .link-7 {
   background-color: var(--mclaren);
-  color: var(--mclaren-dark);
+  color: #fff;
   margin-left: -2px;
   margin-right: -2px;
   padding-left: 2px;
